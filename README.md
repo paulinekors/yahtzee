@@ -1,1 +1,1 @@
-# yahtzee
+# simplified yahtzee game w/ tests
